@@ -1,0 +1,1 @@
+Demos for [25. Promises for asynchronous programming](https://exploringjs.com/es6/ch_promises.html)
