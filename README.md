@@ -1,0 +1,1 @@
+Demos for [awesome-promises](https://github.com/wbinnssmith/awesome-promises)
